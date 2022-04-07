@@ -1,0 +1,14 @@
+D:\C#\KeoBuaBao\KeoBuaBao\bin\Debug\netcoreapp3.1\KeoBuaBao.exe
+D:\C#\KeoBuaBao\KeoBuaBao\bin\Debug\netcoreapp3.1\KeoBuaBao.deps.json
+D:\C#\KeoBuaBao\KeoBuaBao\bin\Debug\netcoreapp3.1\KeoBuaBao.runtimeconfig.json
+D:\C#\KeoBuaBao\KeoBuaBao\bin\Debug\netcoreapp3.1\KeoBuaBao.runtimeconfig.dev.json
+D:\C#\KeoBuaBao\KeoBuaBao\bin\Debug\netcoreapp3.1\KeoBuaBao.dll
+D:\C#\KeoBuaBao\KeoBuaBao\bin\Debug\netcoreapp3.1\KeoBuaBao.pdb
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.csproj.AssemblyReference.cache
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.AssemblyInfoInputs.cache
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.AssemblyInfo.cs
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.csproj.CoreCompileInputs.cache
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.dll
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.pdb
+D:\C#\KeoBuaBao\KeoBuaBao\obj\Debug\netcoreapp3.1\KeoBuaBao.genruntimeconfig.cache
